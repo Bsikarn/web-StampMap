@@ -1,6 +1,6 @@
 # StampMap-web
 
-An interactive, mobile-first stamp collection map and digital passport application. A personal project for Sikarn Pattarasirimongkol, designed to gamify real-world exploration and showcase Full-stack development skills.
+An interactive, mobile-first stamp collection map and digital passport application.
 
 ## Tech Stack
 
